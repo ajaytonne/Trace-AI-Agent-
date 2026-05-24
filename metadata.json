@@ -1,0 +1,6 @@
+{
+  "name": "TraceAgent AI",
+  "description": "A developer-tooling SaaS platform that visualizes software architecture, runs real-time error tracing, and uses a server-side Gemini API agent to automatically patch system bugs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
